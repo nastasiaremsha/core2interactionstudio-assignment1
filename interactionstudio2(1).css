@@ -28,4 +28,27 @@ img{
 .listinlist{
 	margin-left: 5%;
 }
+.ip{
+	font-weight: 800;
+	letter-spacing: -2px;
+}
+.lw{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-weight: 900;
+}
+.g{
+	text-decoration:line-through;
+}
+.dc{
+	color: deeppink;
+	
+}
+.m{
+	opacity: 50%;
+	font-weight: bolder;
+	text-shadow: 2px 2px 5px black;
+}
+.mm{
+	letter-spacing: 10px;
+}
 	
